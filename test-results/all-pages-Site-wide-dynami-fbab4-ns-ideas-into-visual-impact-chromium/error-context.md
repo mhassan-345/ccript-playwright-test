@@ -1,0 +1,313 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - link:
+          - /url: /
+        - generic [ref=e7]:
+          - link [ref=e8] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e9]:
+            - link "Service" [ref=e11] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e12]: Service
+            - link "Magic Work" [ref=e14] [cursor=pointer]:
+              - /url: /magic-work
+              - generic [ref=e15]: Magic Work
+            - link "Company" [ref=e16] [cursor=pointer]:
+              - /url: /company
+              - generic [ref=e17]: Company
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Get in Touch" [ref=e21] [cursor=pointer]:
+                - /url: /contact-us
+                - button "Get in Touch" [ref=e22]:
+                  - generic [ref=e23]: Get in Touch
+                - img [ref=e28]
+        - text: 
+    - generic [ref=e31]:
+      - generic [ref=e34]: Design Services
+      - generic [ref=e35]:
+        - heading "Graphic Design" [level=1] [ref=e37]
+        - generic [ref=e39]: From digital assets and print materials to campaign visuals and social content, we design creative that captures attention, communicates clearly, and strengthens your brand across every channel.
+      - link "Let’s Talk Growth" [ref=e41] [cursor=pointer]:
+        - /url: /contact-us
+        - button "Let’s Talk Growth" [ref=e42]:
+          - generic [ref=e43]: Let’s Talk Growth
+        - img [ref=e48]
+  - generic [ref=e52]:
+    - heading "Design That Amplifies Your Message and Elevates Your Brand" [level=2] [ref=e55]
+    - generic [ref=e57]:
+      - generic [ref=e60]:
+        - heading "Visual Communication That Works" [level=3] [ref=e62]
+        - paragraph [ref=e64]: In a fast-scrolling world, your visuals must speak louder than words. We design graphics that grab attention, hold interest, and deliver your message instantly without sacrificing brand integrity.
+      - generic [ref=e67]:
+        - heading "Marketing That Stands Out" [level=3] [ref=e69]
+        - paragraph [ref=e71]: We support product launches, campaigns, and ongoing promotions with eye-catching creative that converts. Whether for paid media, landing pages, or pitch decks, our work is designed for impact.
+      - generic [ref=e74]:
+        - heading "Print and Digital Versatility" [level=3] [ref=e76]
+        - paragraph [ref=e78]: Need a trade show banner? A carousel for Instagram? A downloadable PDF? We design assets optimized for any format print, web, mobile, social, or presentation.
+      - generic [ref=e81]:
+        - heading "Aligned with Your Brand" [level=3] [ref=e83]
+        - paragraph [ref=e85]: Every graphic reinforces your identity. We use your fonts, colors, tone, and layout rules or help you create visual guidelines if you’re starting from scratch.
+      - generic [ref=e88]:
+        - heading "Faster Turnaround, Consistent Quality" [level=3] [ref=e90]
+        - paragraph [ref=e92]: We understand deadlines. Our team delivers fast without compromising creativity whether it’s a one-off asset or a high-volume content library.
+      - generic [ref=e95]:
+        - heading "Scalable Design Support" [level=3] [ref=e97]
+        - paragraph [ref=e99]: We plug into your workflow as an extension of your team. Whether you need a monthly retainer or help on-demand, we’re ready to keep your creative pipeline flowing.
+    - link "Let's Talk Growth" [ref=e101] [cursor=pointer]:
+      - /url: /contact-us
+      - generic [ref=e102]: Let's Talk Growth
+  - generic [ref=e104]:
+    - heading "A Flexible Process Built for Creative Agility" [level=2] [ref=e107]
+    - generic [ref=e108]:
+      - generic [ref=e111]:
+        - generic [ref=e115]: Graphic Design
+        - generic [ref=e116]:
+          - heading "From Vision to Execution" [level=3] [ref=e118]
+          - generic [ref=e120]: Our Experts align your business goals with user needs to achieve better results.
+      - generic [ref=e121]:
+        - generic [ref=e122]:
+          - heading "1" [level=3] [ref=e124]
+          - generic [ref=e125]:
+            - heading "Brief & Requirements" [level=4] [ref=e127]
+            - generic [ref=e129]: We gather clear input on audience, use case, messaging, format, dimensions, brand assets, and delivery timelines.
+        - generic [ref=e130]:
+          - heading "2" [level=3] [ref=e132]
+          - generic [ref=e133]:
+            - heading "Concept & Direction" [level=4] [ref=e135]
+            - generic [ref=e137]: For larger campaigns or unique assets, we present visual directions, mood boards, or early layouts to align tone and intent before final design.
+        - generic [ref=e138]:
+          - heading "3" [level=3] [ref=e140]
+          - generic [ref=e141]:
+            - heading "Design & Refinement" [level=4] [ref=e143]
+            - generic [ref=e145]: We create assets in multiple formats and iterate based on your feedback. Whether it’s static, motion, or adaptive designs, we maintain quality and consistency.
+        - generic [ref=e146]:
+          - heading "4" [level=3] [ref=e148]
+          - generic [ref=e149]:
+            - heading "Delivery & Handoff" [level=4] [ref=e151]
+            - generic [ref=e153]: You receive final files in all required formats web-optimized, print-ready, layered source files, and editable templates if needed.
+        - generic [ref=e154]:
+          - heading "5" [level=3] [ref=e156]
+          - generic [ref=e157]:
+            - heading "Ongoing Support" [level=4] [ref=e159]
+            - generic [ref=e161]: We remain available for future edits, versioning, localization, and extension acting as a creative partner to your marketing or brand team.
+  - generic [ref=e164]:
+    - generic [ref=e165]:
+      - generic [ref=e167]: We Helped ABB to Achieve 100% ticket resolution.
+      - heading "Leading your Digital Journey to Success" [level=2] [ref=e169]
+      - link "Let’s Talk Growth" [ref=e171] [cursor=pointer]:
+        - /url: /contact-us
+        - button "Let’s Talk Growth" [ref=e172]:
+          - generic [ref=e173]: Let’s Talk Growth
+        - img [ref=e178]
+    - generic [ref=e182]:
+      - generic [ref=e183]:
+        - generic [ref=e184]:
+          - heading "15" [level=3] [ref=e185]
+          - heading "+" [level=3] [ref=e186]
+        - generic [ref=e188]: Years of driving growth
+      - generic [ref=e189]:
+        - generic [ref=e190]:
+          - heading "1000" [level=3] [ref=e191]
+          - heading "+" [level=3] [ref=e192]
+        - generic [ref=e194]: Forward thinking experts
+      - generic [ref=e195]:
+        - generic [ref=e196]:
+          - heading "500" [level=3] [ref=e197]
+          - heading "+" [level=3] [ref=e198]
+        - generic [ref=e200]: Digital Projects Delivered
+      - generic [ref=e201]:
+        - generic [ref=e202]:
+          - heading "25" [level=3] [ref=e203]
+          - heading "+" [level=3] [ref=e204]
+        - generic [ref=e206]: Industries we served
+      - generic [ref=e207]:
+        - generic [ref=e208]:
+          - heading "94" [level=3] [ref=e209]
+          - heading "%" [level=3] [ref=e210]
+        - generic [ref=e212]: Customer Satisfaction
+  - generic [ref=e216]:
+    - generic [ref=e217]:
+      - heading "Explore Our Insights" [level=2] [ref=e219]
+      - generic [ref=e221]:
+        - link "Scroll-Back Icon" [ref=e222] [cursor=pointer]:
+          - /url: "#"
+          - img "Scroll-Back Icon"
+        - link [ref=e223] [cursor=pointer]:
+          - /url: "#"
+    - list [ref=e225]:
+      - listitem [ref=e226]:
+        - link "AI/LLM Project Streamlined Operations With Salesforce & Azure Integration 100 % Timely Ticket Resolution" [ref=e227] [cursor=pointer]:
+          - /url: /insight/streamlined-operations-with-salesforce-and-azure-integration
+          - generic [ref=e230]: AI/LLM Project
+          - generic [ref=e231]:
+            - heading "Streamlined Operations With Salesforce & Azure Integration" [level=3] [ref=e233]
+            - generic [ref=e238]:
+              - generic [ref=e239]:
+                - heading "100" [level=4] [ref=e240]
+                - heading "%" [level=4] [ref=e241]
+              - generic [ref=e243]: Timely Ticket Resolution
+      - listitem [ref=e247]:
+        - link "CRM Custom Web Development Services for Customer CRM Solutions 100 % Timely Ticket Resolution" [ref=e248] [cursor=pointer]:
+          - /url: /insight/custom-web-development-services-for-customer-crm-solutions
+          - generic [ref=e251]: CRM
+          - generic [ref=e252]:
+            - heading "Custom Web Development Services for Customer CRM Solutions" [level=3] [ref=e254]
+            - generic [ref=e259]:
+              - generic [ref=e260]:
+                - heading "100" [level=4] [ref=e261]
+                - heading "%" [level=4] [ref=e262]
+              - generic [ref=e264]: Timely Ticket Resolution
+      - listitem [ref=e268]:
+        - link "AI/LLM Project Integrating AI into AR VR Game Development Services for Smarter Gameplay 100 % Timely Ticket Resolution" [ref=e269] [cursor=pointer]:
+          - /url: /insight/integrating-ai-into-ar-vr-game-development-services-for-smarter-gameplay
+          - generic [ref=e272]: AI/LLM Project
+          - generic [ref=e273]:
+            - heading "Integrating AI into AR VR Game Development Services for Smarter Gameplay" [level=3] [ref=e275]
+            - generic [ref=e280]:
+              - generic [ref=e281]:
+                - heading "100" [level=4] [ref=e282]
+                - heading "%" [level=4] [ref=e283]
+              - generic [ref=e285]: Timely Ticket Resolution
+      - listitem [ref=e289]:
+        - link "SAAS The Role of UX in Increasing SaaS Product Adoption and Retention 100 % Timely Ticket Resolution" [ref=e290] [cursor=pointer]:
+          - /url: /insight/the-role-of-ux-in-increasing-saas-product-adoption-and-retention
+          - generic [ref=e293]: SAAS
+          - generic [ref=e294]:
+            - heading "The Role of UX in Increasing SaaS Product Adoption and Retention" [level=3] [ref=e296]
+            - generic [ref=e301]:
+              - generic [ref=e302]:
+                - heading "100" [level=4] [ref=e303]
+                - heading "%" [level=4] [ref=e304]
+              - generic [ref=e306]: Timely Ticket Resolution
+      - listitem [ref=e310]:
+        - link "Automation Why Your Business Needs a Custom CRM Enterprise Solution in 2025 100 % Timely Ticket Resolution" [ref=e311] [cursor=pointer]:
+          - /url: /insight/why-your-business-needs-a-custom-crm-enterprise-solution-in-2025
+          - generic [ref=e314]: Automation
+          - generic [ref=e315]:
+            - heading "Why Your Business Needs a Custom CRM Enterprise Solution in 2025" [level=3] [ref=e317]
+            - generic [ref=e322]:
+              - generic [ref=e323]:
+                - heading "100" [level=4] [ref=e324]
+                - heading "%" [level=4] [ref=e325]
+              - generic [ref=e327]: Timely Ticket Resolution
+      - listitem [ref=e331]:
+        - link "Blockchain How Blockchain and Smart Contracts Are Changing Enterprise Solutions 100 % Timely Ticket Resolution" [ref=e332] [cursor=pointer]:
+          - /url: /insight/how-blockchain-and-smart-contracts-are-changing-enterprise-solutions
+          - generic [ref=e335]: Blockchain
+          - generic [ref=e336]:
+            - heading "How Blockchain and Smart Contracts Are Changing Enterprise Solutions" [level=3] [ref=e338]
+            - generic [ref=e343]:
+              - generic [ref=e344]:
+                - heading "100" [level=4] [ref=e345]
+                - heading "%" [level=4] [ref=e346]
+              - generic [ref=e348]: Timely Ticket Resolution
+      - listitem [ref=e352]:
+        - link "CMS How Headless CMS Is Revolutionizing Website Performance and Flexibility 100 % Timely Ticket Resolution" [ref=e353] [cursor=pointer]:
+          - /url: /insight/how-headless-cms-is-revolutionizing-website-performance-and-flexibility
+          - generic [ref=e356]: CMS
+          - generic [ref=e357]:
+            - heading "How Headless CMS Is Revolutionizing Website Performance and Flexibility" [level=3] [ref=e359]
+            - generic [ref=e364]:
+              - generic [ref=e365]:
+                - heading "100" [level=4] [ref=e366]
+                - heading "%" [level=4] [ref=e367]
+              - generic [ref=e369]: Timely Ticket Resolution
+  - generic [ref=e375]:
+    - generic [ref=e376]:
+      - heading "What our Client say." [level=2] [ref=e378]
+      - paragraph [ref=e380]: See how our work has made an impact for businesses around the world.
+    - generic [ref=e382]:
+      - listitem [ref=e383]:
+        - generic [ref=e385]:
+          - heading "Madison Cole" [level=3] [ref=e387]
+          - generic [ref=e389]: Chief Operating Officer
+      - listitem [ref=e390]:
+        - generic [ref=e392]:
+          - heading "Michael Turner" [level=3] [ref=e394]
+          - strong [ref=e397]: Chief Technology Officer
+      - listitem [ref=e398]:
+        - generic [ref=e400]:
+          - heading "Ava Richardson" [level=3] [ref=e402]
+          - generic [ref=e404]: Head of Product
+  - generic [ref=e409]:
+    - heading "How can we help you grow?" [level=2] [ref=e411]
+    - generic [ref=e414]:
+      - generic [ref=e415]:
+        - generic [ref=e416]:
+          - generic [ref=e417]: "*"
+          - textbox "*" [ref=e418]:
+            - /placeholder: JOHN DOE
+        - generic [ref=e419]:
+          - generic [ref=e420]: "*"
+          - textbox "*" [ref=e421]:
+            - /placeholder: you@company.com
+      - generic [ref=e422]:
+        - textbox "ORGANIZATION" [ref=e424]
+        - generic [ref=e425]:
+          - textbox "+1 555 000-0000" [ref=e426]
+          - generic [ref=e427]:
+            - checkbox "By checking this box, I consent to receive text messages related to ongoing business matters from CCRIPT AGENCY. You can reply \"STOP\" at any time to opt-out. Message and data rates may apply. Message frequency may vary, text HELP for assistance. For more information, please visit our Terms of Use and Privacy Policy." [ref=e428]
+            - generic [ref=e429] [cursor=pointer]:
+              - text: By checking this box, I consent to receive text messages related to ongoing business matters from CCRIPT AGENCY. You can reply "STOP" at any time to opt-out. Message and data rates may apply. Message frequency may vary, text HELP for assistance. For more information, please visit our
+              - link "Terms of Use" [ref=e430]:
+                - /url: /terms-and-conditions
+              - text: and
+              - link "Privacy Policy" [ref=e431]:
+                - /url: /privacy-policy
+              - text: .
+      - textbox "PROJECT DESCRIPTION" [ref=e434]
+      - button "Submit" [ref=e437] [cursor=pointer]
+  - generic [ref=e440]:
+    - heading "Sit, Relax & Envision Let CCRIPT handle the rest." [level=2] [ref=e444]:
+      - text: Sit, Relax & Envision
+      - text: Let CCRIPT handle the rest.
+    - generic [ref=e445]:
+      - generic [ref=e446]:
+        - generic [ref=e448]:
+          - link [ref=e449] [cursor=pointer]:
+            - /url: "#"
+          - generic [ref=e450]: We help businesses grow with smart design, reliable technology, and solutions built around real user needs.
+        - generic [ref=e451]:
+          - generic [ref=e452]:
+            - generic [ref=e453]: "Email us at:"
+            - link "admin@ccript.com" [ref=e454] [cursor=pointer]:
+              - /url: mailto:admin@ccript.com
+              - heading "admin@ccript.com" [level=2] [ref=e455]
+          - link "Let’s Talk Growth" [ref=e458] [cursor=pointer]:
+            - /url: /contact-us
+            - button "Let’s Talk Growth" [ref=e459]:
+              - generic [ref=e460]: Let’s Talk Growth
+            - img [ref=e465]
+      - generic [ref=e467]:
+        - generic [ref=e469]:
+          - link "Home" [ref=e470] [cursor=pointer]:
+            - /url: /
+          - link "Magic Work" [ref=e471] [cursor=pointer]:
+            - /url: /magic-work
+          - link "About Us" [ref=e472] [cursor=pointer]:
+            - /url: /company
+          - link "Blogs" [ref=e473] [cursor=pointer]:
+            - /url: /blogs
+          - link "Contact" [ref=e474] [cursor=pointer]:
+            - /url: /contact-us
+          - link "Privacy Policy" [ref=e475] [cursor=pointer]:
+            - /url: /privacy-policy
+          - link "Terms & Conditions" [ref=e476] [cursor=pointer]:
+            - /url: /terms-and-conditions
+        - generic [ref=e477]:
+          - link "Facebook" [ref=e478] [cursor=pointer]:
+            - /url: https://www.facebook.com/people/Ccript-Agency/61578821944003/
+          - link "Instagram" [ref=e479] [cursor=pointer]:
+            - /url: https://www.instagram.com/ccriptagency/
+          - link "Youtube" [ref=e480] [cursor=pointer]:
+            - /url: https://www.youtube.com/@ccriptagency
+          - link "Linkedin" [ref=e481] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/ccript/
+      - generic [ref=e483]: © 2025 CCRIPT AGENCY
+```

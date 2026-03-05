@@ -1,0 +1,328 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - link:
+          - /url: /
+        - generic [ref=e7]:
+          - link [ref=e8] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e9]:
+            - link "Service" [ref=e11] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e12]: Service
+            - link "Magic Work" [ref=e14] [cursor=pointer]:
+              - /url: /magic-work
+              - generic [ref=e15]: Magic Work
+            - link "Company" [ref=e16] [cursor=pointer]:
+              - /url: /company
+              - generic [ref=e17]: Company
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Get in Touch" [ref=e21] [cursor=pointer]:
+                - /url: /contact-us
+                - button "Get in Touch" [ref=e22]:
+                  - generic [ref=e23]: Get in Touch
+                - img [ref=e28]
+        - text: 
+    - generic [ref=e31]:
+      - generic [ref=e34]: Engineering & Product Development
+      - generic [ref=e35]:
+        - heading "Application Modernization / Re‑engineering" [level=1] [ref=e37]
+        - generic [ref=e39]: At CCRIPT AGENCY, we empower enterprises with tailored Application Modernization Solutions leveraging agile delivery models, cloud migration, and scalable architectures to transform legacy systems into innovative platforms that drive post-COVID resilience and enterprise growth.
+      - link "Let’s Talk Growth" [ref=e41] [cursor=pointer]:
+        - /url: /contact-us
+        - button "Let’s Talk Growth" [ref=e42]:
+          - generic [ref=e43]: Let’s Talk Growth
+        - img [ref=e48]
+  - generic [ref=e52]:
+    - heading "How Can Application Modernization Address Your Biggest Challenges?" [level=2] [ref=e55]
+    - generic [ref=e57]:
+      - generic [ref=e60]:
+        - heading "Strategies for Efficiency" [level=3] [ref=e62]
+        - paragraph [ref=e64]: Effective strategies include proactive planning, adopting modern software development practices, using automation tools, implementing sound data migration techniques, and fostering a collaborativewha
+      - generic [ref=e67]:
+        - heading "Legacy System Limitations" [level=3] [ref=e69]
+        - paragraph [ref=e71]: Modernizing legacy systems enables seamless integration with new technologies, enhancing operational efficiency and ensuring scalability. Our team excels in re-engineering outdated applications to be compatible with modern platforms.
+      - generic [ref=e74]:
+        - heading "Increasing Operational Costs" [level=3] [ref=e76]
+        - paragraph [ref=e78]: Modernizing legacy systems enables seamless integration with new technologies, enhancing operational efficiency and ensuring scalability. Our team excels in re-engineering outdated applications to be compatible with modern platforms.
+      - generic [ref=e81]:
+        - heading "Security Breaches" [level=3] [ref=e83]
+        - paragraph [ref=e85]: Modernizing your applications involves implementing advanced security protocols and regular updates to mitigate risks. We specialize in embedding robust security measures into your systems, ensuring your data and operations remain secure against evolving threats.
+      - generic [ref=e88]:
+        - heading "Performance Bottlenecks" [level=3] [ref=e90]
+        - paragraph [ref=e92]: Expedite product development and reduce time-to-market by relying on Application Development services. We excel in rapid prototyping, agile methodologies, and DevOps practices, streamlining the development process.
+      - generic [ref=e95]:
+        - heading "Outdated Technology Stack" [level=3] [ref=e97]
+        - paragraph [ref=e99]: Transitioning to a modern technology stack allows for improved performance, security, and functionality. We possess the expertise to upgrade your systems to the latest technologies, ensuring your applications are future-proof and capable of supporting new business initiatives.
+    - link "Let's Talk Growth" [ref=e101] [cursor=pointer]:
+      - /url: /contact-us
+      - generic [ref=e102]: Let's Talk Growth
+  - generic [ref=e104]:
+    - heading "Seamlessly transition your legacy systems to modern platforms" [level=2] [ref=e107]
+    - generic [ref=e108]:
+      - generic [ref=e111]:
+        - generic [ref=e115]: Application Modernization / Re‑engineering
+        - generic [ref=e116]:
+          - heading "A simple, iterative Design process." [level=3] [ref=e118]
+          - generic [ref=e120]: Structured and efficient modernization process
+      - generic [ref=e121]:
+        - generic [ref=e122]:
+          - generic [ref=e124]: "1"
+          - generic [ref=e125]:
+            - generic [ref=e127]: Discovery and Assessment
+            - generic [ref=e129]: We begin by analyzing your current applications and identifying inefficiencies, aligning our findings with your business goals.
+        - generic [ref=e130]:
+          - generic [ref=e132]: "2"
+          - generic [ref=e133]:
+            - generic [ref=e135]: Strategy Development
+            - generic [ref=e137]: We develop a tailored modernization strategy, outlining the roadmap, timelines, and resources needed for success.
+        - generic [ref=e138]:
+          - generic [ref=e140]: "3"
+          - generic [ref=e141]:
+            - generic [ref=e143]: Design and Planning
+            - generic [ref=e145]: Our team designs the architecture and plans the modernization process, selecting the appropriate technologies and frameworks.
+        - generic [ref=e146]:
+          - generic [ref=e148]: "4"
+          - generic [ref=e149]:
+            - generic [ref=e151]: Implementation
+            - generic [ref=e153]: We execute the plan, reengineering systems, migrating applications, integrating APIs, and enhancing user interfaces efficiently.
+        - generic [ref=e154]:
+          - generic [ref=e156]: "5"
+          - generic [ref=e157]:
+            - generic [ref=e159]: Testing and Optimization
+            - generic [ref=e161]: We rigorously test the applications and optimize performance, security, and usability standards.
+        - generic [ref=e162]:
+          - generic [ref=e164]: "6"
+          - generic [ref=e165]:
+            - generic [ref=e167]: Deployment
+            - generic [ref=e169]: Our team ensures a smooth deployment, closely monitoring the process to resolve any issues promptly.
+        - generic [ref=e170]:
+          - generic [ref=e172]: "7"
+          - generic [ref=e173]:
+            - generic [ref=e175]: Support and Maintenance
+            - generic [ref=e177]: We provide ongoing support, regular updates, troubleshooting, and enhancements to keep your applications running smoothly.
+        - generic [ref=e178]:
+          - generic [ref=e180]: "8"
+          - generic [ref=e181]:
+            - generic [ref=e183]: Continuous Improvement
+            - generic [ref=e185]: We regularly review and implement enhancements to keep your systems aligned with evolving business needs and technologies.
+  - generic [ref=e188]:
+    - generic [ref=e189]:
+      - generic [ref=e191]: We Helped ABB to Achieve 100% ticket resolution.
+      - heading "Leading your Digital Journey to Success" [level=2] [ref=e193]
+      - link "Let’s Talk Growth" [ref=e195] [cursor=pointer]:
+        - /url: /contact-us
+        - button "Let’s Talk Growth" [ref=e196]:
+          - generic [ref=e197]: Let’s Talk Growth
+        - img [ref=e202]
+    - generic [ref=e206]:
+      - generic [ref=e207]:
+        - generic [ref=e208]:
+          - heading "15" [level=3] [ref=e209]
+          - heading "+" [level=3] [ref=e210]
+        - generic [ref=e212]: Years of driving growth
+      - generic [ref=e213]:
+        - generic [ref=e214]:
+          - heading "1000" [level=3] [ref=e215]
+          - heading "+" [level=3] [ref=e216]
+        - generic [ref=e218]: Forward thinking experts
+      - generic [ref=e219]:
+        - generic [ref=e220]:
+          - heading "500" [level=3] [ref=e221]
+          - heading "+" [level=3] [ref=e222]
+        - generic [ref=e224]: Digital Projects Delivered
+      - generic [ref=e225]:
+        - generic [ref=e226]:
+          - heading "25" [level=3] [ref=e227]
+          - heading "+" [level=3] [ref=e228]
+        - generic [ref=e230]: Industries we served
+      - generic [ref=e231]:
+        - generic [ref=e232]:
+          - heading "94" [level=3] [ref=e233]
+          - heading "%" [level=3] [ref=e234]
+        - generic [ref=e236]: Customer Satisfaction
+  - generic [ref=e240]:
+    - generic [ref=e241]:
+      - heading "Explore Our Insights" [level=2] [ref=e243]
+      - generic [ref=e245]:
+        - link "Scroll-Back Icon" [ref=e246] [cursor=pointer]:
+          - /url: "#"
+          - img "Scroll-Back Icon"
+        - link [ref=e247] [cursor=pointer]:
+          - /url: "#"
+    - list [ref=e249]:
+      - listitem [ref=e250]:
+        - link "AI/LLM Project Streamlined Operations With Salesforce & Azure Integration 100 % Timely Ticket Resolution" [ref=e251] [cursor=pointer]:
+          - /url: /insight/streamlined-operations-with-salesforce-and-azure-integration
+          - generic [ref=e254]: AI/LLM Project
+          - generic [ref=e255]:
+            - heading "Streamlined Operations With Salesforce & Azure Integration" [level=3] [ref=e257]
+            - generic [ref=e262]:
+              - generic [ref=e263]:
+                - heading "100" [level=4] [ref=e264]
+                - heading "%" [level=4] [ref=e265]
+              - generic [ref=e267]: Timely Ticket Resolution
+      - listitem [ref=e271]:
+        - link "CRM Custom Web Development Services for Customer CRM Solutions 100 % Timely Ticket Resolution" [ref=e272] [cursor=pointer]:
+          - /url: /insight/custom-web-development-services-for-customer-crm-solutions
+          - generic [ref=e275]: CRM
+          - generic [ref=e276]:
+            - heading "Custom Web Development Services for Customer CRM Solutions" [level=3] [ref=e278]
+            - generic [ref=e283]:
+              - generic [ref=e284]:
+                - heading "100" [level=4] [ref=e285]
+                - heading "%" [level=4] [ref=e286]
+              - generic [ref=e288]: Timely Ticket Resolution
+      - listitem [ref=e292]:
+        - link "AI/LLM Project Integrating AI into AR VR Game Development Services for Smarter Gameplay 100 % Timely Ticket Resolution" [ref=e293] [cursor=pointer]:
+          - /url: /insight/integrating-ai-into-ar-vr-game-development-services-for-smarter-gameplay
+          - generic [ref=e296]: AI/LLM Project
+          - generic [ref=e297]:
+            - heading "Integrating AI into AR VR Game Development Services for Smarter Gameplay" [level=3] [ref=e299]
+            - generic [ref=e304]:
+              - generic [ref=e305]:
+                - heading "100" [level=4] [ref=e306]
+                - heading "%" [level=4] [ref=e307]
+              - generic [ref=e309]: Timely Ticket Resolution
+      - listitem [ref=e313]:
+        - link "SAAS The Role of UX in Increasing SaaS Product Adoption and Retention 100 % Timely Ticket Resolution" [ref=e314] [cursor=pointer]:
+          - /url: /insight/the-role-of-ux-in-increasing-saas-product-adoption-and-retention
+          - generic [ref=e317]: SAAS
+          - generic [ref=e318]:
+            - heading "The Role of UX in Increasing SaaS Product Adoption and Retention" [level=3] [ref=e320]
+            - generic [ref=e325]:
+              - generic [ref=e326]:
+                - heading "100" [level=4] [ref=e327]
+                - heading "%" [level=4] [ref=e328]
+              - generic [ref=e330]: Timely Ticket Resolution
+      - listitem [ref=e334]:
+        - link "Automation Why Your Business Needs a Custom CRM Enterprise Solution in 2025 100 % Timely Ticket Resolution" [ref=e335] [cursor=pointer]:
+          - /url: /insight/why-your-business-needs-a-custom-crm-enterprise-solution-in-2025
+          - generic [ref=e338]: Automation
+          - generic [ref=e339]:
+            - heading "Why Your Business Needs a Custom CRM Enterprise Solution in 2025" [level=3] [ref=e341]
+            - generic [ref=e346]:
+              - generic [ref=e347]:
+                - heading "100" [level=4] [ref=e348]
+                - heading "%" [level=4] [ref=e349]
+              - generic [ref=e351]: Timely Ticket Resolution
+      - listitem [ref=e355]:
+        - link "Blockchain How Blockchain and Smart Contracts Are Changing Enterprise Solutions 100 % Timely Ticket Resolution" [ref=e356] [cursor=pointer]:
+          - /url: /insight/how-blockchain-and-smart-contracts-are-changing-enterprise-solutions
+          - generic [ref=e359]: Blockchain
+          - generic [ref=e360]:
+            - heading "How Blockchain and Smart Contracts Are Changing Enterprise Solutions" [level=3] [ref=e362]
+            - generic [ref=e367]:
+              - generic [ref=e368]:
+                - heading "100" [level=4] [ref=e369]
+                - heading "%" [level=4] [ref=e370]
+              - generic [ref=e372]: Timely Ticket Resolution
+      - listitem [ref=e376]:
+        - link "CMS How Headless CMS Is Revolutionizing Website Performance and Flexibility 100 % Timely Ticket Resolution" [ref=e377] [cursor=pointer]:
+          - /url: /insight/how-headless-cms-is-revolutionizing-website-performance-and-flexibility
+          - generic [ref=e380]: CMS
+          - generic [ref=e381]:
+            - heading "How Headless CMS Is Revolutionizing Website Performance and Flexibility" [level=3] [ref=e383]
+            - generic [ref=e388]:
+              - generic [ref=e389]:
+                - heading "100" [level=4] [ref=e390]
+                - heading "%" [level=4] [ref=e391]
+              - generic [ref=e393]: Timely Ticket Resolution
+  - generic [ref=e399]:
+    - generic [ref=e400]:
+      - heading "What our Client say." [level=2] [ref=e402]
+      - paragraph [ref=e404]: See how our work has made an impact for businesses around the world.
+    - generic [ref=e406]:
+      - listitem [ref=e407]:
+        - generic [ref=e409]:
+          - heading "Madison Cole" [level=3] [ref=e411]
+          - generic [ref=e413]: Chief Operating Officer
+      - listitem [ref=e414]:
+        - generic [ref=e416]:
+          - heading "Michael Turner" [level=3] [ref=e418]
+          - strong [ref=e421]: Chief Technology Officer
+      - listitem [ref=e422]:
+        - generic [ref=e424]:
+          - heading "Ava Richardson" [level=3] [ref=e426]
+          - generic [ref=e428]: Head of Product
+  - generic [ref=e433]:
+    - heading "How can we help you grow?" [level=2] [ref=e435]
+    - generic [ref=e438]:
+      - generic [ref=e439]:
+        - generic [ref=e440]:
+          - generic [ref=e441]: "*"
+          - textbox "*" [ref=e442]:
+            - /placeholder: JOHN DOE
+        - generic [ref=e443]:
+          - generic [ref=e444]: "*"
+          - textbox "*" [ref=e445]:
+            - /placeholder: you@company.com
+      - generic [ref=e446]:
+        - textbox "ORGANIZATION" [ref=e448]
+        - generic [ref=e449]:
+          - textbox "+1 555 000-0000" [ref=e450]
+          - generic [ref=e451]:
+            - checkbox "By checking this box, I consent to receive text messages related to ongoing business matters from CCRIPT AGENCY. You can reply \"STOP\" at any time to opt-out. Message and data rates may apply. Message frequency may vary, text HELP for assistance. For more information, please visit our Terms of Use and Privacy Policy." [ref=e452]
+            - generic [ref=e453] [cursor=pointer]:
+              - text: By checking this box, I consent to receive text messages related to ongoing business matters from CCRIPT AGENCY. You can reply "STOP" at any time to opt-out. Message and data rates may apply. Message frequency may vary, text HELP for assistance. For more information, please visit our
+              - link "Terms of Use" [ref=e454]:
+                - /url: /terms-and-conditions
+              - text: and
+              - link "Privacy Policy" [ref=e455]:
+                - /url: /privacy-policy
+              - text: .
+      - textbox "PROJECT DESCRIPTION" [ref=e458]
+      - button "Submit" [ref=e461] [cursor=pointer]
+  - generic [ref=e464]:
+    - heading "Sit, Relax & Envision Let CCRIPT handle the rest." [level=2] [ref=e468]:
+      - text: Sit, Relax & Envision
+      - text: Let CCRIPT handle the rest.
+    - generic [ref=e469]:
+      - generic [ref=e470]:
+        - generic [ref=e472]:
+          - link [ref=e473] [cursor=pointer]:
+            - /url: "#"
+          - generic [ref=e474]: We help businesses grow with smart design, reliable technology, and solutions built around real user needs.
+        - generic [ref=e475]:
+          - generic [ref=e476]:
+            - generic [ref=e477]: "Email us at:"
+            - link "admin@ccript.com" [ref=e478] [cursor=pointer]:
+              - /url: mailto:admin@ccript.com
+              - heading "admin@ccript.com" [level=2] [ref=e479]
+          - link "Let’s Talk Growth" [ref=e482] [cursor=pointer]:
+            - /url: /contact-us
+            - button "Let’s Talk Growth" [ref=e483]:
+              - generic [ref=e484]: Let’s Talk Growth
+            - img [ref=e489]
+      - generic [ref=e491]:
+        - generic [ref=e493]:
+          - link "Home" [ref=e494] [cursor=pointer]:
+            - /url: /
+          - link "Magic Work" [ref=e495] [cursor=pointer]:
+            - /url: /magic-work
+          - link "About Us" [ref=e496] [cursor=pointer]:
+            - /url: /company
+          - link "Blogs" [ref=e497] [cursor=pointer]:
+            - /url: /blogs
+          - link "Contact" [ref=e498] [cursor=pointer]:
+            - /url: /contact-us
+          - link "Privacy Policy" [ref=e499] [cursor=pointer]:
+            - /url: /privacy-policy
+          - link "Terms & Conditions" [ref=e500] [cursor=pointer]:
+            - /url: /terms-and-conditions
+        - generic [ref=e501]:
+          - link "Facebook" [ref=e502] [cursor=pointer]:
+            - /url: https://www.facebook.com/people/Ccript-Agency/61578821944003/
+          - link "Instagram" [ref=e503] [cursor=pointer]:
+            - /url: https://www.instagram.com/ccriptagency/
+          - link "Youtube" [ref=e504] [cursor=pointer]:
+            - /url: https://www.youtube.com/@ccriptagency
+          - link "Linkedin" [ref=e505] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/ccript/
+      - generic [ref=e507]: © 2025 CCRIPT AGENCY
+```
